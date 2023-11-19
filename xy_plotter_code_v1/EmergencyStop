@@ -1,1 +1,4 @@
-
+void emergencyStop()
+{
+  if val_emergency == 
+}
